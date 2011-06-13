@@ -1859,3 +1859,36 @@
 [Jun 13 13:24:44.517240 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
 [Jun 13 13:26:14.523416 2011] debug: Received: PING :irc.technokats.org
 [Jun 13 13:26:14.611297 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
+[Jun 13 13:26:54.651118 2011] debug: Emitting event "db_saving" (1 args)
+[Jun 13 13:26:54.651281 2011] [hs_request] Succesfully saved database
+[Jun 13 13:26:54.651363 2011] debug: Saving FFF databases
+[Jun 13 13:26:54.652479 2011] debug: Emitting event "db_saving" (1 args)
+[Jun 13 13:27:44.522164 2011] debug: Received: PING :irc.technokats.org
+[Jun 13 13:27:44.522366 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
+[Jun 13 13:29:14.524975 2011] debug: Received: PING :irc.technokats.org
+[Jun 13 13:29:14.525203 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
+[Jun 13 13:30:44.524962 2011] debug: Received: PING :irc.technokats.org
+[Jun 13 13:30:44.525166 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
+[Jun 13 13:31:54.594810 2011] debug: Emitting event "db_saving" (1 args)
+[Jun 13 13:31:54.594976 2011] [hs_request] Succesfully saved database
+[Jun 13 13:31:54.595060 2011] debug: Saving FFF databases
+[Jun 13 13:31:54.596200 2011] debug: Emitting event "db_saving" (1 args)
+[Jun 13 13:32:14.527746 2011] debug: Received: PING :irc.technokats.org
+[Jun 13 13:32:14.527969 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
+[Jun 13 13:33:44.531637 2011] debug: Received: PING :irc.technokats.org
+[Jun 13 13:33:44.531832 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
+[Jun 13 13:35:14.536328 2011] debug: Received: PING :irc.technokats.org
+[Jun 13 13:35:14.556355 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
+[Jun 13 13:36:44.533002 2011] debug: Received: PING :irc.technokats.org
+[Jun 13 13:36:44.533225 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
+[Jun 13 13:36:54.543469 2011] debug: Emitting event "db_saving" (1 args)
+[Jun 13 13:36:54.543659 2011] [hs_request] Succesfully saved database
+[Jun 13 13:36:54.543744 2011] debug: Saving FFF databases
+[Jun 13 13:36:54.544852 2011] debug: Emitting event "db_saving" (1 args)
+[Jun 13 13:37:59.610584 2011] debug: Emitting event "db_expire" (1 args)
+[Jun 13 13:37:59.610707 2011] debug: Running expire routines
+[Jun 13 13:37:59.610783 2011] debug: Emitting event "db_expire" (1 args)
+[Jun 13 13:38:14.549148 2011] debug: Received: PING :irc.technokats.org
+[Jun 13 13:38:14.549350 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
+[Jun 13 13:39:44.538161 2011] debug: Received: PING :irc.technokats.org
+[Jun 13 13:39:44.538382 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
