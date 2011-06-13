@@ -1,0 +1,10 @@
+prefix=/var/unrealircd/Unreal3.2/extras/regexp
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: TRE
+Description: TRE regexp matching library
+Version: 0.7.5
+Libs: -L${libdir} -ltre   
+Cflags: -I${includedir} 

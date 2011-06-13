@@ -1,0 +1,23 @@
+[Thu Jun  2 16:59:04 2011] - TIME SYNCH: Unable to synchronize time: invalid timeserver IP 'nist.expertsmi.com'. This happens sometimes, no error on your part.
+[Thu Jun  2 16:59:27 2011] - OPER UNKNOWNOPER (clayton) by (Clayton!Oses@192.168.1.192)
+[Thu Jun  2 16:59:37 2011] - OPER (Clayton) by (Clayton!Oses@192.168.1.192)
+[Sat Jun  4 14:26:32 2011] - OPER FAILEDAUTH (Clayton) by (Clayton!Oses@t3hR)
+[Sat Jun  4 14:26:40 2011] - OPER (Clayton) by (Clayton!Oses@t3hR)
+[Sat Jun  4 14:27:07 2011] - OVERRIDE: Clayton (Oses@t3hR) MODE #technokats +o Clayton
+[Mon Jun  6 23:22:59 2011] - TIME SYNCH: Unable to synchronize time: invalid timeserver IP 'nist.expertsmi.com'. This happens sometimes, no error on your part.
+[Sat Jun 11 02:39:36 2011] - OPER (Clayton) by (Oses!Oses@192.168.1.101)
+[Sat Jun 11 03:05:18 2011] - OVERRIDE: ChanServ (services@technokats.org) MODE #technokats +nt 
+[Sat Jun 11 03:05:18 2011] - OVERRIDE: ChanServ (services@technokats.org) MODE #technokats +q Clayton
+[Sat Jun 11 03:08:41 2011] - OVERRIDE: Clayton (Oses@192.168.1.101) MODE #technokats +q Clayton
+[Sat Jun 11 03:13:14 2011] - OVERRIDE: Clayton (Oses@192.168.1.101) KICK #technokats Dean (Clayton)
+[Sat Jun 11 03:13:38 2011] - OVERRIDE: Clayton (Oses@192.168.1.101) MODE #technokats +a Clayton
+[Sat Jun 11 03:13:46 2011] - OVERRIDE: Clayton (Oses@192.168.1.101) MODE #technokats +q Clayton
+[Sat Jun 11 14:20:18 2011] - OPER FAILEDAUTH (Clayton) by (Clayton!Oses@192.168.1.104)
+[Sat Jun 11 14:20:21 2011] - OPER (Clayton) by (Clayton!Oses@192.168.1.104)
+[Sat Jun 11 14:20:52 2011] - OVERRIDE: Clayton (Oses@192.168.1.104) MODE #openproxymonitor +q Clayton
+[Sat Jun 11 14:21:05 2011] - OVERRIDE: Clayton (Oses@192.168.1.104) MODE #help +q Clayton
+[Sat Jun 11 14:21:11 2011] - OVERRIDE: Clayton (Oses@192.168.1.104) MODE #Services +q Clayton
+[Sat Jun 11 14:21:19 2011] - OVERRIDE: Clayton (Oses@192.168.1.104) MODE #helpdesk +q Clayton
+[Sat Jun 11 14:21:25 2011] - OVERRIDE: Clayton (Oses@192.168.1.104) MODE #technokats +q Clayton
+[Sat Jun 11 14:21:31 2011] - OVERRIDE: Clayton (Oses@192.168.1.104) MODE #opers +q Clayton
+[Mon Jun 13 12:55:31 2011] - OPER (Clayton) by (Clayton!Oses@192.168.1.104)
