@@ -1892,3 +1892,13 @@
 [Jun 13 13:38:14.549350 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
 [Jun 13 13:39:44.538161 2011] debug: Received: PING :irc.technokats.org
 [Jun 13 13:39:44.538382 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
+[Jun 13 13:41:14.536590 2011] debug: Received: PING :irc.technokats.org
+[Jun 13 13:41:14.536819 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
+[Jun 13 13:41:54.571687 2011] debug: Emitting event "db_saving" (1 args)
+[Jun 13 13:41:54.571895 2011] [hs_request] Succesfully saved database
+[Jun 13 13:41:54.571985 2011] debug: Saving FFF databases
+[Jun 13 13:41:54.585105 2011] debug: Emitting event "db_saving" (1 args)
+[Jun 13 13:42:44.542691 2011] debug: Received: PING :irc.technokats.org
+[Jun 13 13:42:44.542923 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org
+[Jun 13 13:44:14.540465 2011] debug: Received: PING :irc.technokats.org
+[Jun 13 13:44:14.540666 2011] debug: Sent: :services.technokats.org PONG irc.technokats.org

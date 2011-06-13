@@ -1,0 +1,5 @@
+unrealircd.conf
+server.cert.perm
+server.key.perm
+ircd.log
+server.req.perm
